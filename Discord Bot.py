@@ -176,4 +176,4 @@ async def on_ready():
 
 
 
-client.run('OTY2NjkzMDE0MTE2Mzg4OTg2.YmFdBg.8VOSAiSf0taPN18jodlmIYNAj-A')
+client.run('token')
